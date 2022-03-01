@@ -1,0 +1,57 @@
+{
+    "2": {
+        "bug": "test",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\udd27 Fixed!"
+    },
+    "3": {
+        "bug": "this is a bug. I am should be trying to get rid of it. Just in case i go mad",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\udd27 Fixed!"
+    },
+    "4": {
+        "bug": "test to see if this\nworks",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\udc35 Seen, In Progress"
+    },
+    "5": {
+        "bug": "i am bug wipe me",
+        "reporter": 829575701559509022,
+        "status": "\\\ud83d\udc35 Seen, In Progress"
+    },
+    "6": {
+        "bug": "there is a bug on your computer wipe it \ud83d\ude09",
+        "reporter": 829575701559509022,
+        "status": "\\\ud83d\udd27 Fixed!"
+    },
+    "7": {
+        "bug": "lol",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\ude48 Unseen"
+    },
+    "8": {
+        "bug": "troled",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\udd34 Declined!"
+    },
+    "9": {
+        "bug": "Hi!\nThank you for choosing AntiScam!\nPlease note that the bot is still being actively developed under the hood...\nPlease familiarise yourself with a few of the important customised settings for your server, provided by AntiScam.\nWhen a scam is detected, the bot is to send a log to all the linked channels. If none exist then it will send the log to the owner. To link a channel use a!linkchannel\nThe bot bans violators(people who send scams) by default. But you can change this by running a!addaction. Available options are ban, and kick\nFor more information try running the help command at a!help\nWe would also recommend joining our support server here: \nhttps://discord.gg/FghqFerGsj",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\udfe1 Testing!"
+    },
+    "10": {
+        "bug": "hey it worke!!",
+        "reporter": 245582927939764226,
+        "status": "\\\ud83d\udd34 Declined!"
+    },
+    "11": {
+        "bug": "sugoma dick",
+        "reporter": 831154220723339324,
+        "status": "\\\ud83d\udd34 Declined!"
+    },
+    "12": {
+        "bug": "I would like to report this scam link because AntiScam bot did not detect it:\nhttps://disccord-club.com/welcome",
+        "reporter": 588081704900624395,
+        "status": "\\\ud83d\udfe1 Testing!"
+    }
+}

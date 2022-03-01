@@ -1,0 +1,23 @@
+{
+    "918486923775975476": {
+        "caselogging": true,
+        "caserecording": true,
+        "takeaction": false,
+        "privacymode": false,
+        "errorlogging": false
+    },
+    "863090857552642048": {
+        "caselogging": true,
+        "caserecording": true,
+        "takeaction": true,
+        "privacymode": false,
+        "errorlogging": false
+    },
+    "249010467920412673": {
+        "caselogging": true,
+        "caserecording": true,
+        "takeaction": true,
+        "privacymode": false,
+        "errorlogging": false
+    }
+}
