@@ -651,7 +651,7 @@ async def on_message(message):
       embed.add_field(name="Warning!",value="Do not click on any of the links!",inline=False)
       embed.add_field(name="ScareScore Information",value=f"ScareScore: {score}\nScarePercent: {round((score/1)*100)}%",inline=False)
       embed.add_field(name="METAScore Information",value=f"METAScore: {scorus}\nMETAPercent: {round((scorus/1)*100)}%",inline=False)
-      channel = bot.get_channel(892436689065246741)
+      channel = bot.get_channel([debugchannelid])
       embed.timestamp = datetime.datetime.now()
       embed.set_footer(text="Even redirect and shortened URLs work too btw 😜")
       with open("serversettings.json","r")as f:
@@ -996,7 +996,7 @@ async def on_command_error(ctx, error):
 
 @bot.event
 async def on_guild_join(guild):
-  channel = bot.get_channel(903525636709167125)
+  channel = bot.get_channel([channelid])
   embed=discord.Embed(description=f"Joined guild! {guild}",colour=discord.Colour.green())
   await guild.owner.send("Hi!\nThank you for choosing AntiScam!\nPlease note that the bot is still being actively developed under the hood...\nPlease familiarise yourself with a few of the important customised settings for your server, provided by AntiScam.\nWhen a scam is detected, the bot is to send a log to all the linked channels. If none exist then it will send the log to the owner. To link a channel use `a!linkchannel`\nThe bot bans violators(people who send scams) by default. But you can change this by running `a!addaction`. Available options are `ban`, and `kick`\nFor more information try running the help command at `a!help`\nWe would also recommend joining our support server here: \nhttps://discord.gg/FghqFerGsj")
 
